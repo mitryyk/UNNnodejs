@@ -5,3 +5,4 @@ art.font("XXX", "Doom", (err, renderredText)=>{
     if (err){return;}
     console.log(renderredText);
 })
+
