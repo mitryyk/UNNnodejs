@@ -1,4 +1,4 @@
-//console.log('start');
+console.log('start');
 
 const art = require('ascii-art');
 art.font("XXX", "Doom", (err, renderredText)=>{
